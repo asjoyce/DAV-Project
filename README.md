@@ -13,7 +13,6 @@ The project aims to compare the cost of living across different countries using 
 
 #### b. **Data Processing & Analysis Tools**
 - **Python**: Useful for data processing and analysis (libraries like Pandas, NumPy).
-- **R**: Ideal for statistical analysis and visualization (ggplot2, dplyr).
 - **Excel**: For simple data entry and preliminary analysis.
 
 #### c. **Data Visualization Tools**
